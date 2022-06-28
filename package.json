@@ -3,6 +3,11 @@
     "displayName": "Tokyo Night Ultra",
     "description": "",
     "version": "0.0.1",
+    "publisher": "huanamigo",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huanamigo/tokyo-night-ultra"
+    },
     "engines": {
         "vscode": "^1.68.0"
     },

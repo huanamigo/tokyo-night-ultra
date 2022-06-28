@@ -4,7 +4,6 @@
     "author": "Enkia, kito0, huanamigo",
     "maintainers": ["Enkia <enki77@gmail.com>, kito0 <drewshah0@gmail.com>, huanamigo"],
     "type": "dark",
-	"publisher": "huanamigo",
     "semanticTokenColors": {
         "parameter.declaration": {
             "foreground": "#e0af68"
