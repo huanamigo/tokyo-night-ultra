@@ -1,0 +1,21 @@
+{
+    "name": "tokyo-night-ultra",
+    "displayName": "Tokyo Night Ultra",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tokyo Night Ultra",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tokyo Night Ultra-color-theme.json"
+            }
+        ]
+    }
+}
