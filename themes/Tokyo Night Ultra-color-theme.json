@@ -912,7 +912,7 @@
             "name": "CSS Tag",
             "scope": "entity.name.tag.css",
             "settings": {
-                "foreground": "#b11616"
+                "foreground": "#0db9d7"
             }
         },
         {
